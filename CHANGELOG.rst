@@ -1,5 +1,17 @@
 .. _changelog:
 
+0.6.9
+-----
+
+This is a UI feature/bugfix release.
+
+Bug fixes
+~~~~~~~~~~~~~~~~~~~~
+
+* can go directly to new interactive environment page without logging in
+* a project-specific CPU/GPU/Memory option does not change the options configured for the server
+* handle any number of project branches on the interactive environments page
+
 0.6.8
 -----
 
